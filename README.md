@@ -1,4 +1,4 @@
-<h1>Explore the World of Knowledge with ArticleVoyage</h1>
+<h1>Explore the World of Knowledge with <q>ArticleVoyage</q></h1>
 
 Welcome to ArticleVoyage, your passport to a world of enlightening articles and insightful content. Embark on a journey through the vast sea of knowledge, where we offer a treasure trove of articles on a wide range of topics, all crafted to inform, educate, and inspire.
 
