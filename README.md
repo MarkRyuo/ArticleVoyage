@@ -10,8 +10,8 @@ At ArticleVoyage, we believe that knowledge is a voyage, and each article is a n
 
 <h3>Quality Content:</h3>We take pride in providing well-researched, informative, and engaging articles that are written by experts in their respective fields.
 
-**User-Friendly Experience:** Our user-friendly interface ensures a seamless navigation experience, making it easy for you to find the information you seek.
+<h3>User-Friendly Experience:</h3>Our user-friendly interface ensures a seamless navigation experience, making it easy for you to find the information you seek.
 
- **Regular Updates:** We keep our content fresh and up-to-date, so you can always find the latest information and insights on the topics that matter to you.
+<h3>Regular Updates:</h3>We keep our content fresh and up-to-date, so you can always find the latest information and insights on the topics that matter to you.
 
-**Community Interaction:** Engage with our community through comments and discussions to share your thoughts, ask questions, and connect with like-minded individuals.
+<h3>Community Interaction:</h3>Engage with our community through comments and discussions to share your thoughts, ask questions, and connect with like-minded individuals.
